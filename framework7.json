@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\shima\\Desktop\\workspase\\practice\\framework7\\test2",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "My App",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "webpack",
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
